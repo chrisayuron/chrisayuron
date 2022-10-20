@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisayuron&" alt="chrisayuron" /></p>
 
-![WebDevWebsiteDevelopmentGIF](https://user-images.githubusercontent.com/101873980/196974336-5837c943-79e6-4767-8502-89f3f7bb31f2.gif)
+<p aling='center'>![WebDevWebsiteDevelopmentGIF](https://user-images.githubusercontent.com/101873980/196974336-5837c943-79e6-4767-8502-89f3f7bb31f2.gif)</p>
 <h2 align="center"'><a href="https://chrisayuron.github.io/MyWebPage/">My WebPage </a></h2>
