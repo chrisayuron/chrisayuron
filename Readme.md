@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisayuron&" alt="chrisayuron" /></p>
 
-<p style="text-aling:center; font-size:30px;"><a href="https://chrisayuron.github.io/MyWebPage/">My WebPage </a></p>
+<p aling=center font-size='30px'><a href="https://chrisayuron.github.io/MyWebPage/">My WebPage </a></p>
