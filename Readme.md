@@ -1,5 +1,5 @@
 <h1 align="center">Hola, me llamo Ronald Rojas Newball</h1>
-<h3 align="center">Soy un tecnólogo en Sistemas, que le gusta enseñar, que descubrió el gusto por el desarrollo Web, por lo que ahora soy un Desarrollador en Actualización y Construcción</h3>
+<h3 align="center">Soy un Tecnologo en Sistemas, que le gusta enseñar, que descubrió que le gusta el desarrollo Web, por lo que ahora soy un Desarrollador en constante Actualización</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisayuron&label=Profile%20views&color=0e75b6&style=flat" alt="chrisayuron" /> </p>
 
