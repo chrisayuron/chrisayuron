@@ -1,5 +1,7 @@
 <h1 align="center">Soy Ronald Rojas Newball</h1>
-<h3 align="center">Soy un Tecnologo en Sistemas, que le gusta enseñar, descubrí el desarrollo Web Frontend y me gustó, por lo que ahora soy un Profesor Desarrollador Web Frontend en Construcción y Actualización. Me considero una persona analista, reservada, con habilidad para trabajar en equipo y seguir instrucciones, honesto, ético, responsable y leal. Me gusta observar, aprender y enseñar</h3>
+<h3 align="center">Soy un Tecnólogo en Sistemas, apasionado por enseñar con más de 15 años de experiencia en enseñanza de la informática, tecnología y ahora programación. Descubrí el desarrollo Web Frontend y me gustó, por lo que ahora soy un Profesor y Desarrollador Web Frontend en Construcción y Actualización. 
+
+Me considero una persona analista, reservada, con habilidad para trabajar en equipo y seguir instrucciones, honesto, ético, responsable y leal. Me gusta observar, aprender y enseñar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisayuron&label=Profile%20views&color=0e75b6&style=flat" alt="chrisayuron" /> </p>
 
